@@ -21,7 +21,7 @@ import pic17 from "../../assets/Netlinks-img/x.svg";
 import pic18 from "../../assets/Netlinks-img/github.svg";
 import pic19 from "../../assets/Netlinks-img/instagram.svg";
 import pic15 from "../../assets/Netlinks-img/youtube.svg";
-// فعلاً برای جلوگیری از خطا، از عکس‌های موجود استفاده می‌کنیم
+
 
 
 import "./NavStyle.css";
